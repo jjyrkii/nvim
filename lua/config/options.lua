@@ -5,5 +5,7 @@
 vim.g.snacks_animate = false
 vim.g.autoformat = false
 
+vim.o.scrolloff = 10
+
 vim.o.number = true
 vim.o.relativenumber = true
